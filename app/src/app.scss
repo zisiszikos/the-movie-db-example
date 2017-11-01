@@ -1,0 +1,21 @@
+.app {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+
+    .flex-item:nth-child(1) {
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+    }
+
+    .flex-item:nth-child(2) {
+        order: 0;
+        flex: 0 1 100%;
+        align-self: auto;
+    }
+}

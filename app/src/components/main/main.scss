@@ -1,0 +1,46 @@
+.main {
+    width: 100%;
+    order: 0;
+    flex: 0 1 100%;
+    align-self: auto;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+
+    .list-title {
+        width: 100%;
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+        background-color: $white;
+        box-shadow: 0 5px 10px -5px rgba(0 ,0, 0, 0.2);
+        padding: 0.5em 0;
+
+        h4 {
+            text-align: center;
+            line-height: 1;
+            width: 100%;
+            margin: 0;
+        }
+    }
+
+    .main-container {
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+        width: 100%;
+        padding: 1em;
+        padding-bottom: 0.5em;
+        margin: 0 auto;
+        overflow: auto;
+
+        .empty-movies-list {
+            text-align: center;
+        }
+    }
+}

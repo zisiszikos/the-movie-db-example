@@ -1,0 +1,146 @@
+.movie {
+    position: relative;
+    order: 0;
+    flex: 0 1 50%;
+    align-self: auto;
+    padding-bottom: 1em;
+
+    &:nth-child(odd) {
+        padding-right: 0.5em;
+    }
+
+    &:nth-child(even) {
+        padding-left: 0.5em;
+    }
+
+    &.expanded {
+        flex-basis: 100%;
+    }
+
+    .movie-box {
+        position: relative;
+        overflow: hidden;
+        height: 0;
+        padding-top: 56.25%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
+        transition: box-shadow 200ms ease;
+        cursor: pointer;
+
+        &:hover {
+            box-shadow: 0 0 10px 0 rgba(0,0,0,0.8);
+        }
+
+        .movie-score {
+            position: absolute;
+            top: 0.5em;
+            left: 0.5em;
+            margin: 0;
+            font-weight: bold;
+            color: $white;
+            background-color: #d8c800;
+            border-radius: $box-radius;
+            text-shadow: 0 0 2px #000;
+            box-shadow: 0 0 4px 0 rgba(0,0,0,0.6);
+            line-height: 1;
+            padding: 0.3em;
+        }
+
+        .movie-title {
+            position: absolute;
+            top: 0.5em;
+            left: 2.5em;
+            margin: 0;
+            color: $white;
+            text-shadow: 0 0 4px #000;
+            width: calc(100% - 3em);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .movie-genres {
+            position: absolute;
+            top: 2.3rem;
+            left: 0.5rem;
+            margin: 0;
+            color: $white;
+            font-size: 0.8em;
+            font-weight: bold;
+            text-shadow: 0 0 4px #000;
+            width: calc(100% - 1em);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .movie-overview {
+            position: absolute;
+            bottom: 0.5rem;
+            left: 0.5rem;
+            margin: 0;
+            color: $white;
+            font-size: 0.8em;
+            font-weight: bold;
+            text-shadow: 0 0 4px #000;
+            width: calc(100% - 1rem);
+            max-height: calc(100% - 5rem);
+            overflow: hidden;
+        }
+
+        .tint {
+            z-index: 0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.35);
+            transition: background-color 200ms ease;
+        }
+    }
+
+    &.expanded {
+        flex-basis: 100%;
+        padding-right: 0;
+        padding-left: 0;
+
+        .movie-box {
+
+            .tint {
+                background-color: rgba(0, 0, 0, 0.7);
+            }
+        }
+
+        .movie-title {
+            width: calc(50% - 3em);
+        }
+
+        .movie-genres {
+            width: calc(50% - 1em);
+        }
+
+        .movie-overview {
+            width: calc(50% - 1rem);
+            bottom: auto;
+            top: 6em;
+            max-height: 8.5em;
+            overflow: auto;
+        }
+    }
+}
+
+.movie.expanded ~ .movie {
+
+    &:nth-child(even) {
+        padding-right: 0.5em;
+        padding-left: 0;
+    }
+
+    &:nth-child(odd) {
+        padding-left: 0.5em;
+        padding-right: 0;
+    }
+}

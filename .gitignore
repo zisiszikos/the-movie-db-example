@@ -1,0 +1,10 @@
+node_modules
+coverage
+app/public/dist
+webpack-assets.json
+
+# misc
+.tags*
+.DS_Store
+.env
+npm-debug.log

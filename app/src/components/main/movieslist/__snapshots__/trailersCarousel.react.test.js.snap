@@ -1,0 +1,636 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TrailersCarousel component should render properly 1`] = `
+<TrailersCarousel
+  trailers={
+    Array [
+      Object {
+        "id": "58f2bf699251413d95006445",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "FnCdOQsX5kc",
+        "name": "Official Teaser Trailer",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+      },
+      Object {
+        "id": "597a18aac3a368688e01950b",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "xKJmEC5ieOk",
+        "name": "Official Trailer 1",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+      },
+    ]
+  }
+>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url(http://img.youtube.com/vi/FnCdOQsX5kc/mqdefault.jpg)",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title="Official Teaser Trailer"
+        >
+          Official Teaser Trailer
+        </p>
+      </div>
+      <div
+        className="right-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;
+
+exports[`TrailersCarousel component should render properly 2`] = `
+<TrailersCarousel
+  trailers={
+    Array [
+      Object {
+        "id": "58f2bf699251413d95006445",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "FnCdOQsX5kc",
+        "name": "Official Teaser Trailer",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+      },
+      Object {
+        "id": "597a18aac3a368688e01950b",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "xKJmEC5ieOk",
+        "name": "Official Trailer 1",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+      },
+    ]
+  }
+>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url(http://img.youtube.com/vi/xKJmEC5ieOk/mqdefault.jpg)",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title="Official Trailer 1"
+        >
+          Official Trailer 1
+        </p>
+      </div>
+      <div
+        className="right-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;
+
+exports[`TrailersCarousel component should render properly 3`] = `
+<TrailersCarousel
+  trailers={
+    Array [
+      Object {
+        "id": "58f2bf699251413d95006445",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "FnCdOQsX5kc",
+        "name": "Official Teaser Trailer",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+      },
+      Object {
+        "id": "597a18aac3a368688e01950b",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "xKJmEC5ieOk",
+        "name": "Official Trailer 1",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+      },
+    ]
+  }
+>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url(http://img.youtube.com/vi/FnCdOQsX5kc/mqdefault.jpg)",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title="Official Teaser Trailer"
+        >
+          Official Teaser Trailer
+        </p>
+      </div>
+      <div
+        className="right-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;
+
+exports[`TrailersCarousel component should render properly 4`] = `
+<TrailersCarousel
+  trailers={
+    Array [
+      Object {
+        "id": "58f2bf699251413d95006445",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "FnCdOQsX5kc",
+        "name": "Official Teaser Trailer",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+      },
+      Object {
+        "id": "597a18aac3a368688e01950b",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "xKJmEC5ieOk",
+        "name": "Official Trailer 1",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+      },
+    ]
+  }
+>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url(http://img.youtube.com/vi/xKJmEC5ieOk/mqdefault.jpg)",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title="Official Trailer 1"
+        >
+          Official Trailer 1
+        </p>
+      </div>
+      <div
+        className="right-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;
+
+exports[`TrailersCarousel component should render properly 5`] = `
+<TrailersCarousel
+  trailers={
+    Array [
+      Object {
+        "id": "58f2bf699251413d95006445",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "FnCdOQsX5kc",
+        "name": "Official Teaser Trailer",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+      },
+      Object {
+        "id": "597a18aac3a368688e01950b",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "xKJmEC5ieOk",
+        "name": "Official Trailer 1",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+      },
+    ]
+  }
+>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url(http://img.youtube.com/vi/FnCdOQsX5kc/mqdefault.jpg)",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title="Official Teaser Trailer"
+        >
+          Official Teaser Trailer
+        </p>
+      </div>
+      <div
+        className="right-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;
+
+exports[`TrailersCarousel component should render properly 6`] = `
+<TrailersCarousel
+  trailers={
+    Array [
+      Object {
+        "id": "58f2bf699251413d95006445",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "FnCdOQsX5kc",
+        "name": "Official Teaser Trailer",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+      },
+      Object {
+        "id": "597a18aac3a368688e01950b",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "xKJmEC5ieOk",
+        "name": "Official Trailer 1",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+      },
+    ]
+  }
+>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url(http://img.youtube.com/vi/FnCdOQsX5kc/mqdefault.jpg)",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title="Official Teaser Trailer"
+        >
+          Official Teaser Trailer
+        </p>
+      </div>
+      <div
+        className="right-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;
+
+exports[`TrailersCarousel component should render with only one trailer 1`] = `
+<TrailersCarousel
+  trailers={
+    Array [
+      Object {
+        "id": "58f2bf699251413d95006445",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "key": "FnCdOQsX5kc",
+        "name": "Official Teaser Trailer",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+      },
+    ]
+  }
+>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow disabled"
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url(http://img.youtube.com/vi/FnCdOQsX5kc/mqdefault.jpg)",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title="Official Teaser Trailer"
+        >
+          Official Teaser Trailer
+        </p>
+      </div>
+      <div
+        className="right-arrow disabled"
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;
+
+exports[`TrailersCarousel component should render without trailers 1`] = `
+<TrailersCarousel>
+  <div
+    className="trailers-carousel"
+  >
+    <h3
+      className="header-title"
+    >
+      Trailers
+    </h3>
+    <div
+      className="carousel"
+    >
+      <div
+        className="left-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_left
+        </i>
+      </div>
+      <div
+        className="video-block"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundImage": "url()",
+          }
+        }
+      >
+        <i
+          className="material-icons play-icon"
+        >
+          play_circle_outline
+        </i>
+        <p
+          className="trailer-title"
+          title={null}
+        />
+      </div>
+      <div
+        className="right-arrow "
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          keyboard_arrow_right
+        </i>
+      </div>
+    </div>
+  </div>
+</TrailersCarousel>
+`;

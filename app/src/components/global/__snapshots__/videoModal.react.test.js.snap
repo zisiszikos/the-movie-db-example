@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoModal component should render properly 1`] = `
+<div
+  className="video-modal inactive"
+  onClick={[Function]}
+>
+  <div
+    className="inner-container"
+  >
+    <div
+      className="iframe-container"
+    >
+      <i
+        className="material-icons close-icon"
+      >
+        close
+      </i>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`VideoModal component should render properly 2`] = `
+<div
+  className="video-modal inactive"
+  onClick={[Function]}
+>
+  <div
+    className="inner-container"
+  >
+    <div
+      className="iframe-container"
+    >
+      <i
+        className="material-icons close-icon"
+      >
+        close
+      </i>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,797 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimilarMovies component should render properly 1`] = `
+<div
+  className="similar-movies"
+>
+  <h3
+    className="similar-movies-header-title"
+  >
+    Similar movies
+  </h3>
+  <div
+    className="similar-movies-list"
+  >
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="0"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
+          "genre_ids": Array [
+            12,
+            18,
+            27,
+            885555,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 346364,
+          "original_language": "en",
+          "original_title": "It",
+          "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+          "popularity": 741.821925,
+          "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+          "release_date": "2017-09-05",
+          "title": "It",
+          "video": false,
+          "vote_average": 7.4,
+          "vote_count": 2793,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="1"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+          "genre_ids": Array [
+            28,
+            9648,
+            878,
+            53,
+          ],
+          "genre_names": Array [
+            "Action",
+            "Mystery",
+            "Science Fiction",
+            "Thriller",
+          ],
+          "id": 335984,
+          "original_language": "en",
+          "original_title": "Blade Runner 2049",
+          "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+          "popularity": 521.697454,
+          "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
+          "release_date": "2017-10-04",
+          "title": "Blade Runner 2049",
+          "video": false,
+          "vote_average": 7.6,
+          "vote_count": 1320,
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`SimilarMovies component should render the default image 1`] = `
+<SimilarMovies
+  conf={
+    Object {
+      "change_keys": Array [
+        "adult",
+        "air_date",
+        "also_known_as",
+        "alternative_titles",
+        "biography",
+        "birthday",
+        "budget",
+        "cast",
+        "certifications",
+        "character_names",
+        "created_by",
+        "crew",
+        "deathday",
+        "episode",
+        "episode_number",
+        "episode_run_time",
+        "freebase_id",
+        "freebase_mid",
+        "general",
+        "genres",
+        "guest_stars",
+        "homepage",
+        "images",
+        "imdb_id",
+        "languages",
+        "name",
+        "network",
+        "origin_country",
+        "original_name",
+        "original_title",
+        "overview",
+        "parts",
+        "place_of_birth",
+        "plot_keywords",
+        "production_code",
+        "production_companies",
+        "production_countries",
+        "releases",
+        "revenue",
+        "runtime",
+        "season",
+        "season_number",
+        "season_regular",
+        "spoken_languages",
+        "status",
+        "tagline",
+        "title",
+        "translations",
+        "tvdb_id",
+        "tvrage_id",
+        "type",
+        "video",
+        "videos",
+      ],
+      "images": Object {
+        "backdrop_sizes": Array [
+          "w300",
+          "w780",
+          "w1280",
+          "original",
+        ],
+        "base_url": "http://image.tmdb.org/t/p/",
+        "logo_sizes": Array [
+          "w45",
+          "w92",
+          "w154",
+          "w185",
+          "w300",
+          "w500",
+          "original",
+        ],
+        "poster_sizes": Array [
+          "w92",
+          "w154",
+          "w185",
+          "w342",
+          "w500",
+          "w780",
+          "original",
+        ],
+        "profile_sizes": Array [
+          "w45",
+          "w185",
+          "h632",
+          "original",
+        ],
+        "secure_base_url": "https://image.tmdb.org/t/p/",
+        "still_sizes": Array [
+          "w92",
+          "w185",
+          "w300",
+          "original",
+        ],
+      },
+    }
+  }
+  simiralMovies={
+    Array [
+      Object {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": Array [
+          12,
+          18,
+          27,
+          885555,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 346364,
+        "original_language": "en",
+        "original_title": "It",
+        "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+        "popularity": 741.821925,
+        "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+        "release_date": "2017-09-05",
+        "title": "It",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 2793,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+        "genre_ids": Array [
+          28,
+          9648,
+          878,
+          53,
+        ],
+        "genre_names": Array [
+          "Action",
+          "Mystery",
+          "Science Fiction",
+          "Thriller",
+        ],
+        "id": 335984,
+        "original_language": "en",
+        "original_title": "Blade Runner 2049",
+        "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+        "popularity": 521.697454,
+        "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
+        "release_date": "2017-10-04",
+        "title": "Blade Runner 2049",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 1320,
+      },
+    ]
+  }
+>
+  <div
+    className="similar-movies"
+  >
+    <h3
+      className="similar-movies-header-title"
+    >
+      Similar movies
+    </h3>
+    <div
+      className="similar-movies-list"
+    >
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="0"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": Array [
+              12,
+              18,
+              27,
+              885555,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 346364,
+            "original_language": "en",
+            "original_title": "It",
+            "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+            "popularity": 741.821925,
+            "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+            "release_date": "2017-09-05",
+            "title": "It",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 2793,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(/movie-default.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              It
+            </h4>
+            <p
+              className="score"
+            >
+              7.4
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="1"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+            "genre_ids": Array [
+              28,
+              9648,
+              878,
+              53,
+            ],
+            "genre_names": Array [
+              "Action",
+              "Mystery",
+              "Science Fiction",
+              "Thriller",
+            ],
+            "id": 335984,
+            "original_language": "en",
+            "original_title": "Blade Runner 2049",
+            "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "popularity": 521.697454,
+            "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
+            "release_date": "2017-10-04",
+            "title": "Blade Runner 2049",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1320,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Blade Runner 2049
+            </h4>
+            <p
+              className="score"
+            >
+              7.6
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+    </div>
+  </div>
+</SimilarMovies>
+`;
+
+exports[`SimilarMovies component should render without movies 1`] = `
+<div
+  className="similar-movies"
+>
+  <h3
+    className="similar-movies-header-title"
+  >
+    Similar movies
+  </h3>
+  <div
+    className="similar-movies-list"
+  />
+</div>
+`;

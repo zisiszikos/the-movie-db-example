@@ -1,0 +1,16 @@
+// Common
+@import './scss/variables';
+@import './scss/colors';
+@import './scss/base';
+
+// Components
+@import './app';
+@import './components/global/videoModal';
+@import './components/header/header';
+@import './components/header/search';
+@import './components/main/main';
+@import './components/main/movieslist/movieslist';
+@import './components/main/movieslist/movie';
+@import './components/main/movieslist/trailersCarousel';
+@import './components/main/movieslist/reviewsList';
+@import './components/main/movieslist/similarMovies';

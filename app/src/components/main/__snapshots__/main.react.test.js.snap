@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main component should change state after a movie is clicked 1`] = `
+<Main>
+  <div
+    className="main"
+  >
+    <div
+      className="list-title"
+    >
+      <h4>
+        In Theaters
+      </h4>
+    </div>
+    <div
+      className="main-container"
+      onScroll={[Function]}
+    />
+  </div>
+</Main>
+`;
+
+exports[`Main component should change state after a movie is clicked 2`] = `
+<Main>
+  <div
+    className="main"
+  >
+    <div
+      className="list-title"
+    >
+      <h4>
+        In Theaters
+      </h4>
+    </div>
+    <div
+      className="main-container"
+      onScroll={[Function]}
+    />
+  </div>
+</Main>
+`;
+
+exports[`Main component should change state after search term is changed 1`] = `
+<Main>
+  <div
+    className="main"
+  >
+    <div
+      className="list-title"
+    >
+      <h4>
+        In Theaters
+      </h4>
+    </div>
+    <div
+      className="main-container"
+      onScroll={[Function]}
+    />
+  </div>
+</Main>
+`;
+
+exports[`Main component should have correct initial values 1`] = `
+<Main>
+  <div
+    className="main"
+  >
+    <div
+      className="list-title"
+    >
+      <h4>
+        In Theaters
+      </h4>
+    </div>
+    <div
+      className="main-container"
+      onScroll={[Function]}
+    />
+  </div>
+</Main>
+`;
+
+exports[`Main component without network should render blank page 1`] = `
+<Main>
+  <div
+    className="main"
+  >
+    <div
+      className="list-title"
+    >
+      <h4>
+        In Theaters
+      </h4>
+    </div>
+    <div
+      className="main-container"
+      onScroll={[Function]}
+    />
+  </div>
+</Main>
+`;

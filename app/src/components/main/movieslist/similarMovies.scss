@@ -1,0 +1,86 @@
+.similar-movies {
+    position: absolute;
+    bottom: 2.5rem;
+    right: 0.5rem;
+    margin: 0;
+    color: $white;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-shadow: 0 0 4px #000;
+    width: calc(50% - 1rem);
+    height: 13.8em;
+
+    .similar-movies-header-title {
+        color: $white;
+        margin: 0;
+        margin-bottom: 0.5em;
+        text-align: center;
+    }
+
+    .similar-movies-list {
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+
+        .similar-movie {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            justify-content: flex-start;
+            align-content: stretch;
+            align-items: flex-start;
+            margin-bottom: 0.5em;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+
+            .left-block {
+                flex: 1 0 auto;
+                align-self: auto;
+                height: 0;
+                padding-top: 17%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .right-block {
+                width: 70%;
+                flex: 0 1 auto;
+                align-self: auto;
+                padding-left: 0.5em;
+
+                .similar-movie-title {
+                    color: $white;
+                    width: 100%;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    margin: 0;
+                    margin-bottom: 0.5em;
+                }
+
+                .score {
+                    display: inline-block;
+                    font-weight: bold;
+                    color: $white;
+                    background-color: #d8c800;
+                    border-radius: $box-radius;
+                    text-shadow: 0 0 2px #000;
+                    box-shadow: 0 0 4px 0 rgba(0,0,0,0.6);
+                    line-height: 1;
+                    padding: 0.3em;
+                    margin: 0;
+                }
+
+                .year {
+                    display: inline-block;
+                    margin: 0;
+                    margin-left: 1em;
+                    color: $white;
+                }
+            }
+        }
+    }
+}

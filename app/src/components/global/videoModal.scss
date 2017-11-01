@@ -1,0 +1,58 @@
+.video-modal {
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.85);
+    opacity: 1;
+    transition: opacity 200ms ease;
+    text-align: center;
+    cursor: pointer;
+
+    &.inactive {
+        display: none;
+        opacity: 0;
+    }
+
+    .inner-container {
+        width: 80%;
+        height: 100%;
+        display: inline-block;
+        position: relative;
+    }
+    .iframe-container {
+        position: relative;
+        top: 50%;
+        width: 100%;
+        height: 0;
+        padding-top: 56.25%;
+        transform: translateY(-50%);
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.6);
+
+        .close-icon {
+            position: absolute;
+            top: -2.8rem;
+            right: 0;
+            font-size: 2.5em;
+            cursor: pointer;
+            color: $white;
+            opacity: 0.6;
+
+            &:hover {
+                opacity: 1;
+            }
+        }
+
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: $black;
+            border: none;
+        }
+    }
+}
