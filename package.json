@@ -1,6 +1,6 @@
 {
   "name": "the-movie-db-example",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Movie DB example project.",
   "scripts": {
     "start": "node app/server.js",
@@ -96,5 +96,8 @@
     "style-loader": "0.19.0",
     "webpack": "3.8.1",
     "webpack-bundle-analyzer": "2.9.0"
-  }
+  },
+    "engines": {
+        "node": "8.9.x"
+    }
 }
