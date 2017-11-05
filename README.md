@@ -1,5 +1,7 @@
 # :movie_camera: The Movie DB example
 
+[![Build Status](https://travis-ci.org/zisiszikos/the-movie-db-example.svg?branch=master)](https://travis-ci.org/zisiszikos/the-movie-db-example)
+
 A movie catalog where users can check the movies of the week, search for movies and view details about them. All data are taken from [The Movie DB](https://www.themoviedb.org) page.
 
 ![TMDB Logo](https://raw.githubusercontent.com/zisiszikos/the-movie-db-example/master/tmdb.png)
