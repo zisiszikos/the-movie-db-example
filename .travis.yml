@@ -1,11 +1,18 @@
 language: node_js
 node_js:
-  - "node"
-  - "8"
+- node
+- '8'
 install:
-  - npm install
+- npm install
 script:
-  - npm build
-  - npm test
+- npm build
+- npm test
 env:
-  - NODE_ENV=test
+- NODE_ENV=test
+deploy:
+  provider: heroku
+  api_key:
+    secure: JrzFxQy1mRgv1qn9qnNPefvQy9fBrZ5Mya+mwntDddh7S3Lv4UOLqMySarS5lOr7Nuwnkj0VfQiiCDo77qyfvI4DmUHaP1dbqYqzTOUKimyzEAtTN2nDdMPNpPBR6mLs3q0A7Bm6OBubwAr9tbEuF7N0W+DG5Z7xK07AZnjRwWAoOi+Q06AT16170vh2FHqLONyTHNAjvU1lYDXW568MyweSJdXXRHqgMXK5+qReqz+qDVsEpXHPcCMajE9/jxme77U2+zStjbsDE92obXcE+oR2vnkpkru37uSrS1bHGzTl2EDIr5mmjjkADot790JAZBqaclkObPq0UL7bQw1S6NHMrDP8Hr1XqCiNe4ex/Lciw9jVRZXbrvYsQIOd7uhFPn6bZvmpN3xObOFAHbKHOzzWxtyFwKyD7OikCuMv0i/4SNT4fXjcHumeqlEXMKTRWmpQPsRVr7LHNjcs/azCUG2gtJBYWOHGEjVMg4TG0jnh9wJUyzQG2ZqpySGeEVuo8L3CYxaDCPpueLl9yV8lma2tn8cNRjOYqEMz5/Q8GTsw8s6h5fMHYb/x9T5pEC3oUldzj+d0m+fG7ENnjDWpq/Z5RlnTO9V864xxibCwVDzOLRpb11wA7aPsJI80AdusJ5gVGFhZ0oOzdy9jcLkinpdoWIcbdS6U5BHe1teGEYA=
+  app: the-movie-db-example
+  on:
+    branch: master
