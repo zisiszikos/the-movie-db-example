@@ -9,7 +9,10 @@ install:
 script:
 - npm test
 before_deploy:
-- test $TRAVIS_TEST_RESULT = 0 && npm build
+- test $TRAVIS_TEST_RESULT = 0 \
+  && npm build \
+  && echo "!app/public/dist" >> .gitignore \
+  && echo "!webpack-assets.json" >> .gitignore
 deploy:
   provider: heroku
   api_key:
