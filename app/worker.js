@@ -53,9 +53,9 @@ app.use(lusca.csrf());
 app.use(lusca.csp({
     policy: {
         'default-src': '\'self\'',
-        'style-src': '\'self\' fonts.googleapis.com',
-        'font-src': '\'self\' fonts.gstatic.com',
-        'img-src': '\'self\' image.tmdb.org img.youtube.com',
+        'style-src': '\'self\' https://fonts.googleapis.com',
+        'font-src': '\'self\' https://fonts.gstatic.com',
+        'img-src': '\'self\' data: http://image.tmdb.org http://img.youtube.com',
         'frame-src': '\'self\' *.youtube.com',
         'connect-src': '\'self\' ws://127.0.0.1:35729'
     }
