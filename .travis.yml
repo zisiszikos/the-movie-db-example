@@ -1,18 +1,20 @@
 language: node_js
 node_js:
-- node
-- '8'
+  - node
+  - '8'
 env:
-- NODE_ENV=test
+  - NODE_ENV=test
 install:
-- npm install
+  - npm install
 script:
-- npm test
+  - npm test
 before_deploy:
-- test $TRAVIS_TEST_RESULT = 0 \
-  && npm build \
-  && echo "!app/public/dist" >> .gitignore \
-  && echo "!webpack-assets.json" >> .gitignore
+  - |
+    if [ "$TRAVIS_TEST_RESULT" == "0" ]; then
+      npm build
+      echo "!app/public/dist" >> .gitignore
+      echo "!webpack-assets.json" >> .gitignore
+    fi
 deploy:
   provider: heroku
   api_key:
