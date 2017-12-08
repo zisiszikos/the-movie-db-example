@@ -116,29 +116,30 @@ exports[`SimilarMovies component should render properly 1`] = `
       movie={
         Object {
           "adult": false,
-          "backdrop_path": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
+          "backdrop_path": "/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg",
           "genre_ids": Array [
+            28,
             12,
-            18,
-            27,
-            885555,
+            35,
+            14,
+            878,
           ],
           "genre_names": Array [
             "Thriller",
             "Horror",
             "Drama",
           ],
-          "id": 346364,
+          "id": 284053,
           "original_language": "en",
-          "original_title": "It",
-          "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
-          "popularity": 741.821925,
-          "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
-          "release_date": "2017-09-05",
-          "title": "It",
+          "original_title": "Thor: Ragnarok",
+          "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+          "popularity": 793.613813,
+          "poster_path": "/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg",
+          "release_date": "2017-10-25",
+          "title": "Thor: Ragnarok",
           "video": false,
-          "vote_average": 7.4,
-          "vote_count": 2793,
+          "vote_average": 7.6,
+          "vote_count": 1617,
         }
       }
     />
@@ -246,30 +247,2348 @@ exports[`SimilarMovies component should render properly 1`] = `
       movie={
         Object {
           "adult": false,
-          "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+          "backdrop_path": "/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg",
+          "genre_ids": Array [
+            27,
+            53,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 298250,
+          "original_language": "en",
+          "original_title": "Jigsaw",
+          "overview": "Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.",
+          "popularity": 380.247825,
+          "poster_path": "/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg",
+          "release_date": "2017-10-20",
+          "title": "Jigsaw",
+          "video": false,
+          "vote_average": 6,
+          "vote_count": 246,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="2"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg",
           "genre_ids": Array [
             28,
+            12,
+            14,
+            878,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 141052,
+          "original_language": "en",
+          "original_title": "Justice League",
+          "overview": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+          "popularity": 341.509307,
+          "poster_path": "/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg",
+          "release_date": "2017-11-15",
+          "title": "Justice League",
+          "video": false,
+          "vote_average": 7.1,
+          "vote_count": 293,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="3"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/eGx5OfOdvM0gkHdmkLe3hcJuEIT.jpg",
+          "genre_ids": Array [
+            27,
+            9648,
+            53,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 440021,
+          "original_language": "en",
+          "original_title": "Happy Death Day",
+          "overview": "A college student relives the day of her murder over and over again as she tries to discover her killer's identity.",
+          "popularity": 326.009459,
+          "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+          "release_date": "2017-10-12",
+          "title": "Happy Death Day",
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 382,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="4"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg",
+          "genre_ids": Array [
+            28,
+            878,
+            53,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 274855,
+          "original_language": "en",
+          "original_title": "Geostorm",
+          "overview": "Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.",
+          "popularity": 301.79268,
+          "poster_path": "/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",
+          "release_date": "2017-10-13",
+          "title": "Geostorm",
+          "video": false,
+          "vote_average": 5.9,
+          "vote_count": 275,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="5"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg",
+          "genre_ids": Array [
+            80,
+            18,
+            27,
+            9648,
+            53,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 372343,
+          "original_language": "en",
+          "original_title": "The Snowman",
+          "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+          "popularity": 301.583929,
+          "poster_path": "/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg",
+          "release_date": "2017-10-12",
+          "title": "The Snowman",
+          "video": false,
+          "vote_average": 5.1,
+          "vote_count": 187,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="6"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/lj3wkYkJGkfmDfXkKrVarSJpFD4.jpg",
+          "genre_ids": Array [
+            53,
+            9648,
+            28,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 341013,
+          "original_language": "en",
+          "original_title": "Atomic Blonde",
+          "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+          "popularity": 281.512167,
+          "poster_path": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+          "release_date": "2017-07-26",
+          "title": "Atomic Blonde",
+          "video": false,
+          "vote_average": 6.2,
+          "vote_count": 1079,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="7"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/go1a6YwrVTMrNNIfaRpBRp5pIzV.jpg",
+          "genre_ids": Array [
+            12,
+            18,
+            53,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 390062,
+          "original_language": "en",
+          "original_title": "Jungle",
+          "overview": "A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.",
+          "popularity": 275.559692,
+          "poster_path": "/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
+          "release_date": "2017-10-20",
+          "title": "Jungle",
+          "video": false,
+          "vote_average": 5.2,
+          "vote_count": 124,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="8"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/78kN1a1AHxAPEh7hQhNjDQhLZ9W.jpg",
+          "genre_ids": Array [
+            27,
+            35,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 459202,
+          "original_language": "en",
+          "original_title": "Boo 2! A Madea Halloween",
+          "overview": "Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.",
+          "popularity": 216.224617,
+          "poster_path": "/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg",
+          "release_date": "2017-10-20",
+          "title": "Boo 2! A Madea Halloween",
+          "video": false,
+          "vote_average": 5.5,
+          "vote_count": 139,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="9"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+          "genre_ids": Array [
+            18,
+            878,
+            10752,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 281338,
+          "original_language": "en",
+          "original_title": "War for the Planet of the Apes",
+          "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+          "popularity": 211.798067,
+          "poster_path": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+          "release_date": "2017-07-11",
+          "title": "War for the Planet of the Apes",
+          "video": false,
+          "vote_average": 6.8,
+          "vote_count": 2287,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="10"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+          "genre_ids": Array [
             9648,
             878,
             53,
           ],
           "genre_names": Array [
-            "Action",
-            "Mystery",
-            "Science Fiction",
             "Thriller",
+            "Horror",
+            "Drama",
           ],
           "id": 335984,
           "original_language": "en",
           "original_title": "Blade Runner 2049",
           "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-          "popularity": 521.697454,
+          "popularity": 185.63854,
           "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
           "release_date": "2017-10-04",
           "title": "Blade Runner 2049",
           "video": false,
-          "vote_average": 7.6,
-          "vote_count": 1320,
+          "vote_average": 7.4,
+          "vote_count": 1718,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="11"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+          "genre_ids": Array [
+            53,
+            27,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 396422,
+          "original_language": "en",
+          "original_title": "Annabelle: Creation",
+          "overview": "Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker's possessed creation, Annabelle.",
+          "popularity": 128.48143,
+          "poster_path": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+          "release_date": "2017-08-03",
+          "title": "Annabelle: Creation",
+          "video": false,
+          "vote_average": 6.4,
+          "vote_count": 1357,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="12"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/854uDv6rzbwF82jOtFe931SMrRs.jpg",
+          "genre_ids": Array [
+            18,
+            27,
+            9648,
+            53,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 399057,
+          "original_language": "en",
+          "original_title": "The Killing of a Sacred Deer",
+          "overview": "A teenager's attempts to bring a brilliant surgeon into his dysfunctional family take an unexpected turn.",
+          "popularity": 128.142011,
+          "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+          "release_date": "2017-10-20",
+          "title": "The Killing of a Sacred Deer",
+          "video": false,
+          "vote_average": 6,
+          "vote_count": 63,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="13"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/lMDyuHzBhx3zNAv48vYzmgcJCCD.jpg",
+          "genre_ids": Array [
+            18,
+            35,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 419680,
+          "original_language": "en",
+          "original_title": "Daddy's Home 2",
+          "overview": "Brad and Dusty must deal with their intrusive fathers during the holidays.",
+          "popularity": 124.463046,
+          "poster_path": "/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg",
+          "release_date": "2017-11-09",
+          "title": "Daddy's Home 2",
+          "video": false,
+          "vote_average": 5.5,
+          "vote_count": 37,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="14"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/sY2ttr9jdPFlTVm5gxFkRW2ELUi.jpg",
+          "genre_ids": Array [
+            53,
+            18,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 413362,
+          "original_language": "en",
+          "original_title": "Roman J. Israel, Esq.",
+          "overview": "Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.",
+          "popularity": 121.030415,
+          "poster_path": "/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg",
+          "release_date": "2017-11-10",
+          "title": "Roman J. Israel, Esq.",
+          "video": false,
+          "vote_average": 10,
+          "vote_count": 3,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="15"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg",
+          "genre_ids": Array [
+            18,
+            28,
+            80,
+            9648,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 395458,
+          "original_language": "en",
+          "original_title": "Suburbicon",
+          "overview": "A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.",
+          "popularity": 114.778176,
+          "poster_path": "/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg",
+          "release_date": "2017-10-27",
+          "title": "Suburbicon",
+          "video": false,
+          "vote_average": 4.6,
+          "vote_count": 37,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="16"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/tvKcA4OFUiZkNeTJmmTkNqKHMMg.jpg",
+          "genre_ids": Array [
+            80,
+            18,
+            9648,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 392044,
+          "original_language": "en",
+          "original_title": "Murder on the Orient Express",
+          "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+          "popularity": 114.736713,
+          "poster_path": "/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg",
+          "release_date": "2017-11-03",
+          "title": "Murder on the Orient Express",
+          "video": false,
+          "vote_average": 6.6,
+          "vote_count": 136,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="17"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
+          "genre_ids": Array [
+            35,
+            10751,
+            16,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 378236,
+          "original_language": "en",
+          "original_title": "The Emoji Movie",
+          "overview": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+          "popularity": 114.60013,
+          "poster_path": "/f5pF4OYzh4wb1dYL2ARQNdqUsEZ.jpg",
+          "release_date": "2017-07-28",
+          "title": "The Emoji Movie",
+          "video": false,
+          "vote_average": 5.7,
+          "vote_count": 483,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="18"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg",
+          "genre_ids": Array [
+            18,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 395991,
+          "original_language": "en",
+          "original_title": "Only the Brave",
+          "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+          "popularity": 105.939271,
+          "poster_path": "/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg",
+          "release_date": "2017-10-19",
+          "title": "Only the Brave",
+          "video": false,
+          "vote_average": 5.8,
+          "vote_count": 47,
+        }
+      }
+    />
+    <SimilarMovie
+      conf={
+        Object {
+          "change_keys": Array [
+            "adult",
+            "air_date",
+            "also_known_as",
+            "alternative_titles",
+            "biography",
+            "birthday",
+            "budget",
+            "cast",
+            "certifications",
+            "character_names",
+            "created_by",
+            "crew",
+            "deathday",
+            "episode",
+            "episode_number",
+            "episode_run_time",
+            "freebase_id",
+            "freebase_mid",
+            "general",
+            "genres",
+            "guest_stars",
+            "homepage",
+            "images",
+            "imdb_id",
+            "languages",
+            "name",
+            "network",
+            "origin_country",
+            "original_name",
+            "original_title",
+            "overview",
+            "parts",
+            "place_of_birth",
+            "plot_keywords",
+            "production_code",
+            "production_companies",
+            "production_countries",
+            "releases",
+            "revenue",
+            "runtime",
+            "season",
+            "season_number",
+            "season_regular",
+            "spoken_languages",
+            "status",
+            "tagline",
+            "title",
+            "translations",
+            "tvdb_id",
+            "tvrage_id",
+            "type",
+            "video",
+            "videos",
+          ],
+          "images": Object {
+            "backdrop_sizes": Array [
+              "w300",
+              "w780",
+              "w1280",
+              "original",
+            ],
+            "base_url": "http://image.tmdb.org/t/p/",
+            "logo_sizes": Array [
+              "w45",
+              "w92",
+              "w154",
+              "w185",
+              "w300",
+              "w500",
+              "original",
+            ],
+            "poster_sizes": Array [
+              "w92",
+              "w154",
+              "w185",
+              "w342",
+              "w500",
+              "w780",
+              "original",
+            ],
+            "profile_sizes": Array [
+              "w45",
+              "w185",
+              "h632",
+              "original",
+            ],
+            "secure_base_url": "https://image.tmdb.org/t/p/",
+            "still_sizes": Array [
+              "w92",
+              "w185",
+              "w300",
+              "original",
+            ],
+          },
+        }
+      }
+      key="19"
+      movie={
+        Object {
+          "adult": false,
+          "backdrop_path": "/iJ5dkwIHQnq8dfmwSLh7dpETNhi.jpg",
+          "genre_ids": Array [
+            35,
+            16,
+            12,
+          ],
+          "genre_names": Array [
+            "Thriller",
+            "Horror",
+            "Drama",
+          ],
+          "id": 355547,
+          "original_language": "en",
+          "original_title": "The Star",
+          "overview": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.",
+          "popularity": 104.820669,
+          "poster_path": "/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+          "release_date": "2017-11-15",
+          "title": "The Star",
+          "video": false,
+          "vote_average": 10,
+          "vote_count": 1,
         }
       }
     />
@@ -384,54 +2703,501 @@ exports[`SimilarMovies component should render the default image 1`] = `
         "adult": false,
         "backdrop_path": null,
         "genre_ids": Array [
+          28,
           12,
-          18,
-          27,
-          885555,
+          35,
+          14,
+          878,
         ],
         "genre_names": Array [
           "Thriller",
           "Horror",
           "Drama",
         ],
-        "id": 346364,
+        "id": 284053,
         "original_language": "en",
-        "original_title": "It",
-        "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
-        "popularity": 741.821925,
-        "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
-        "release_date": "2017-09-05",
-        "title": "It",
+        "original_title": "Thor: Ragnarok",
+        "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+        "popularity": 793.613813,
+        "poster_path": "/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg",
+        "release_date": "2017-10-25",
+        "title": "Thor: Ragnarok",
         "video": false,
-        "vote_average": 7.4,
-        "vote_count": 2793,
+        "vote_average": 7.6,
+        "vote_count": 1617,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg",
+        "genre_ids": Array [
+          27,
+          53,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 298250,
+        "original_language": "en",
+        "original_title": "Jigsaw",
+        "overview": "Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.",
+        "popularity": 380.247825,
+        "poster_path": "/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg",
+        "release_date": "2017-10-20",
+        "title": "Jigsaw",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 246,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg",
+        "genre_ids": Array [
+          28,
+          12,
+          14,
+          878,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 141052,
+        "original_language": "en",
+        "original_title": "Justice League",
+        "overview": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+        "popularity": 341.509307,
+        "poster_path": "/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg",
+        "release_date": "2017-11-15",
+        "title": "Justice League",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 293,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/eGx5OfOdvM0gkHdmkLe3hcJuEIT.jpg",
+        "genre_ids": Array [
+          27,
+          9648,
+          53,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 440021,
+        "original_language": "en",
+        "original_title": "Happy Death Day",
+        "overview": "A college student relives the day of her murder over and over again as she tries to discover her killer's identity.",
+        "popularity": 326.009459,
+        "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+        "release_date": "2017-10-12",
+        "title": "Happy Death Day",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 382,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg",
+        "genre_ids": Array [
+          28,
+          878,
+          53,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 274855,
+        "original_language": "en",
+        "original_title": "Geostorm",
+        "overview": "Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.",
+        "popularity": 301.79268,
+        "poster_path": "/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",
+        "release_date": "2017-10-13",
+        "title": "Geostorm",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 275,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg",
+        "genre_ids": Array [
+          80,
+          18,
+          27,
+          9648,
+          53,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 372343,
+        "original_language": "en",
+        "original_title": "The Snowman",
+        "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+        "popularity": 301.583929,
+        "poster_path": "/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg",
+        "release_date": "2017-10-12",
+        "title": "The Snowman",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 187,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/lj3wkYkJGkfmDfXkKrVarSJpFD4.jpg",
+        "genre_ids": Array [
+          53,
+          9648,
+          28,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 341013,
+        "original_language": "en",
+        "original_title": "Atomic Blonde",
+        "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+        "popularity": 281.512167,
+        "poster_path": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+        "release_date": "2017-07-26",
+        "title": "Atomic Blonde",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 1079,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/go1a6YwrVTMrNNIfaRpBRp5pIzV.jpg",
+        "genre_ids": Array [
+          12,
+          18,
+          53,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 390062,
+        "original_language": "en",
+        "original_title": "Jungle",
+        "overview": "A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.",
+        "popularity": 275.559692,
+        "poster_path": "/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
+        "release_date": "2017-10-20",
+        "title": "Jungle",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 124,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/78kN1a1AHxAPEh7hQhNjDQhLZ9W.jpg",
+        "genre_ids": Array [
+          27,
+          35,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 459202,
+        "original_language": "en",
+        "original_title": "Boo 2! A Madea Halloween",
+        "overview": "Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.",
+        "popularity": 216.224617,
+        "poster_path": "/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg",
+        "release_date": "2017-10-20",
+        "title": "Boo 2! A Madea Halloween",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 139,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+        "genre_ids": Array [
+          18,
+          878,
+          10752,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 281338,
+        "original_language": "en",
+        "original_title": "War for the Planet of the Apes",
+        "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+        "popularity": 211.798067,
+        "poster_path": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+        "release_date": "2017-07-11",
+        "title": "War for the Planet of the Apes",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 2287,
       },
       Object {
         "adult": false,
         "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
         "genre_ids": Array [
-          28,
           9648,
           878,
           53,
         ],
         "genre_names": Array [
-          "Action",
-          "Mystery",
-          "Science Fiction",
           "Thriller",
+          "Horror",
+          "Drama",
         ],
         "id": 335984,
         "original_language": "en",
         "original_title": "Blade Runner 2049",
         "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-        "popularity": 521.697454,
+        "popularity": 185.63854,
         "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
         "release_date": "2017-10-04",
         "title": "Blade Runner 2049",
         "video": false,
-        "vote_average": 7.6,
-        "vote_count": 1320,
+        "vote_average": 7.4,
+        "vote_count": 1718,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+        "genre_ids": Array [
+          53,
+          27,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 396422,
+        "original_language": "en",
+        "original_title": "Annabelle: Creation",
+        "overview": "Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker's possessed creation, Annabelle.",
+        "popularity": 128.48143,
+        "poster_path": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+        "release_date": "2017-08-03",
+        "title": "Annabelle: Creation",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 1357,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/854uDv6rzbwF82jOtFe931SMrRs.jpg",
+        "genre_ids": Array [
+          18,
+          27,
+          9648,
+          53,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 399057,
+        "original_language": "en",
+        "original_title": "The Killing of a Sacred Deer",
+        "overview": "A teenager's attempts to bring a brilliant surgeon into his dysfunctional family take an unexpected turn.",
+        "popularity": 128.142011,
+        "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+        "release_date": "2017-10-20",
+        "title": "The Killing of a Sacred Deer",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 63,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/lMDyuHzBhx3zNAv48vYzmgcJCCD.jpg",
+        "genre_ids": Array [
+          18,
+          35,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 419680,
+        "original_language": "en",
+        "original_title": "Daddy's Home 2",
+        "overview": "Brad and Dusty must deal with their intrusive fathers during the holidays.",
+        "popularity": 124.463046,
+        "poster_path": "/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg",
+        "release_date": "2017-11-09",
+        "title": "Daddy's Home 2",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 37,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/sY2ttr9jdPFlTVm5gxFkRW2ELUi.jpg",
+        "genre_ids": Array [
+          53,
+          18,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 413362,
+        "original_language": "en",
+        "original_title": "Roman J. Israel, Esq.",
+        "overview": "Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.",
+        "popularity": 121.030415,
+        "poster_path": "/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg",
+        "release_date": "2017-11-10",
+        "title": "Roman J. Israel, Esq.",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 3,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg",
+        "genre_ids": Array [
+          18,
+          28,
+          80,
+          9648,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 395458,
+        "original_language": "en",
+        "original_title": "Suburbicon",
+        "overview": "A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.",
+        "popularity": 114.778176,
+        "poster_path": "/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg",
+        "release_date": "2017-10-27",
+        "title": "Suburbicon",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 37,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/tvKcA4OFUiZkNeTJmmTkNqKHMMg.jpg",
+        "genre_ids": Array [
+          80,
+          18,
+          9648,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 392044,
+        "original_language": "en",
+        "original_title": "Murder on the Orient Express",
+        "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+        "popularity": 114.736713,
+        "poster_path": "/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg",
+        "release_date": "2017-11-03",
+        "title": "Murder on the Orient Express",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 136,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
+        "genre_ids": Array [
+          35,
+          10751,
+          16,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 378236,
+        "original_language": "en",
+        "original_title": "The Emoji Movie",
+        "overview": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+        "popularity": 114.60013,
+        "poster_path": "/f5pF4OYzh4wb1dYL2ARQNdqUsEZ.jpg",
+        "release_date": "2017-07-28",
+        "title": "The Emoji Movie",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 483,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg",
+        "genre_ids": Array [
+          18,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 395991,
+        "original_language": "en",
+        "original_title": "Only the Brave",
+        "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+        "popularity": 105.939271,
+        "poster_path": "/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg",
+        "release_date": "2017-10-19",
+        "title": "Only the Brave",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 47,
+      },
+      Object {
+        "adult": false,
+        "backdrop_path": "/iJ5dkwIHQnq8dfmwSLh7dpETNhi.jpg",
+        "genre_ids": Array [
+          35,
+          16,
+          12,
+        ],
+        "genre_names": Array [
+          "Thriller",
+          "Horror",
+          "Drama",
+        ],
+        "id": 355547,
+        "original_language": "en",
+        "original_title": "The Star",
+        "overview": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.",
+        "popularity": 104.820669,
+        "poster_path": "/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+        "release_date": "2017-11-15",
+        "title": "The Star",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1,
       },
     ]
   }
@@ -553,27 +3319,28 @@ exports[`SimilarMovies component should render the default image 1`] = `
             "adult": false,
             "backdrop_path": null,
             "genre_ids": Array [
+              28,
               12,
-              18,
-              27,
-              885555,
+              35,
+              14,
+              878,
             ],
             "genre_names": Array [
               "Thriller",
               "Horror",
               "Drama",
             ],
-            "id": 346364,
+            "id": 284053,
             "original_language": "en",
-            "original_title": "It",
-            "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
-            "popularity": 741.821925,
-            "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
-            "release_date": "2017-09-05",
-            "title": "It",
+            "original_title": "Thor: Ragnarok",
+            "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+            "popularity": 793.613813,
+            "poster_path": "/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg",
+            "release_date": "2017-10-25",
+            "title": "Thor: Ragnarok",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 2793,
+            "vote_average": 7.6,
+            "vote_count": 1617,
           }
         }
       >
@@ -594,7 +3361,1638 @@ exports[`SimilarMovies component should render the default image 1`] = `
             <h4
               className="similar-movie-title"
             >
-              It
+              Thor: Ragnarok
+            </h4>
+            <p
+              className="score"
+            >
+              7.6
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="1"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg",
+            "genre_ids": Array [
+              27,
+              53,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 298250,
+            "original_language": "en",
+            "original_title": "Jigsaw",
+            "overview": "Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.",
+            "popularity": 380.247825,
+            "poster_path": "/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg",
+            "release_date": "2017-10-20",
+            "title": "Jigsaw",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 246,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Jigsaw
+            </h4>
+            <p
+              className="score"
+            >
+              6.0
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="2"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg",
+            "genre_ids": Array [
+              28,
+              12,
+              14,
+              878,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 141052,
+            "original_language": "en",
+            "original_title": "Justice League",
+            "overview": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+            "popularity": 341.509307,
+            "poster_path": "/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg",
+            "release_date": "2017-11-15",
+            "title": "Justice League",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 293,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Justice League
+            </h4>
+            <p
+              className="score"
+            >
+              7.1
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="3"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/eGx5OfOdvM0gkHdmkLe3hcJuEIT.jpg",
+            "genre_ids": Array [
+              27,
+              9648,
+              53,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 440021,
+            "original_language": "en",
+            "original_title": "Happy Death Day",
+            "overview": "A college student relives the day of her murder over and over again as she tries to discover her killer's identity.",
+            "popularity": 326.009459,
+            "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+            "release_date": "2017-10-12",
+            "title": "Happy Death Day",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 382,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/eGx5OfOdvM0gkHdmkLe3hcJuEIT.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Happy Death Day
+            </h4>
+            <p
+              className="score"
+            >
+              6.5
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="4"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg",
+            "genre_ids": Array [
+              28,
+              878,
+              53,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 274855,
+            "original_language": "en",
+            "original_title": "Geostorm",
+            "overview": "Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.",
+            "popularity": 301.79268,
+            "poster_path": "/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",
+            "release_date": "2017-10-13",
+            "title": "Geostorm",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 275,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Geostorm
+            </h4>
+            <p
+              className="score"
+            >
+              5.9
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="5"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg",
+            "genre_ids": Array [
+              80,
+              18,
+              27,
+              9648,
+              53,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 372343,
+            "original_language": "en",
+            "original_title": "The Snowman",
+            "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+            "popularity": 301.583929,
+            "poster_path": "/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg",
+            "release_date": "2017-10-12",
+            "title": "The Snowman",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 187,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              The Snowman
+            </h4>
+            <p
+              className="score"
+            >
+              5.1
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="6"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/lj3wkYkJGkfmDfXkKrVarSJpFD4.jpg",
+            "genre_ids": Array [
+              53,
+              9648,
+              28,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 341013,
+            "original_language": "en",
+            "original_title": "Atomic Blonde",
+            "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+            "popularity": 281.512167,
+            "poster_path": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+            "release_date": "2017-07-26",
+            "title": "Atomic Blonde",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1079,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/lj3wkYkJGkfmDfXkKrVarSJpFD4.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Atomic Blonde
+            </h4>
+            <p
+              className="score"
+            >
+              6.2
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="7"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/go1a6YwrVTMrNNIfaRpBRp5pIzV.jpg",
+            "genre_ids": Array [
+              12,
+              18,
+              53,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 390062,
+            "original_language": "en",
+            "original_title": "Jungle",
+            "overview": "A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.",
+            "popularity": 275.559692,
+            "poster_path": "/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
+            "release_date": "2017-10-20",
+            "title": "Jungle",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 124,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/go1a6YwrVTMrNNIfaRpBRp5pIzV.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Jungle
+            </h4>
+            <p
+              className="score"
+            >
+              5.2
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="8"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/78kN1a1AHxAPEh7hQhNjDQhLZ9W.jpg",
+            "genre_ids": Array [
+              27,
+              35,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 459202,
+            "original_language": "en",
+            "original_title": "Boo 2! A Madea Halloween",
+            "overview": "Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.",
+            "popularity": 216.224617,
+            "poster_path": "/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg",
+            "release_date": "2017-10-20",
+            "title": "Boo 2! A Madea Halloween",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 139,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/78kN1a1AHxAPEh7hQhNjDQhLZ9W.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Boo 2! A Madea Halloween
+            </h4>
+            <p
+              className="score"
+            >
+              5.5
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="9"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+            "genre_ids": Array [
+              18,
+              878,
+              10752,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 281338,
+            "original_language": "en",
+            "original_title": "War for the Planet of the Apes",
+            "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+            "popularity": 211.798067,
+            "poster_path": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+            "release_date": "2017-07-11",
+            "title": "War for the Planet of the Apes",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 2287,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/ulMscezy9YX0bhknvJbZoUgQxO5.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              War for the Planet of the Apes
+            </h4>
+            <p
+              className="score"
+            >
+              6.8
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="10"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+            "genre_ids": Array [
+              9648,
+              878,
+              53,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 335984,
+            "original_language": "en",
+            "original_title": "Blade Runner 2049",
+            "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "popularity": 185.63854,
+            "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
+            "release_date": "2017-10-04",
+            "title": "Blade Runner 2049",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1718,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Blade Runner 2049
             </h4>
             <p
               className="score"
@@ -711,34 +5109,31 @@ exports[`SimilarMovies component should render the default image 1`] = `
             },
           }
         }
-        key="1"
+        key="11"
         movie={
           Object {
             "adult": false,
-            "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+            "backdrop_path": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
             "genre_ids": Array [
-              28,
-              9648,
-              878,
               53,
+              27,
             ],
             "genre_names": Array [
-              "Action",
-              "Mystery",
-              "Science Fiction",
               "Thriller",
+              "Horror",
+              "Drama",
             ],
-            "id": 335984,
+            "id": 396422,
             "original_language": "en",
-            "original_title": "Blade Runner 2049",
-            "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-            "popularity": 521.697454,
-            "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
-            "release_date": "2017-10-04",
-            "title": "Blade Runner 2049",
+            "original_title": "Annabelle: Creation",
+            "overview": "Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker's possessed creation, Annabelle.",
+            "popularity": 128.48143,
+            "poster_path": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+            "release_date": "2017-08-03",
+            "title": "Annabelle: Creation",
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 1320,
+            "vote_average": 6.4,
+            "vote_count": 1357,
           }
         }
       >
@@ -749,7 +5144,7 @@ exports[`SimilarMovies component should render the default image 1`] = `
             className="left-block"
             style={
               Object {
-                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg)",
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg)",
               }
             }
           />
@@ -759,12 +5154,1314 @@ exports[`SimilarMovies component should render the default image 1`] = `
             <h4
               className="similar-movie-title"
             >
-              Blade Runner 2049
+              Annabelle: Creation
             </h4>
             <p
               className="score"
             >
-              7.6
+              6.4
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="12"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/854uDv6rzbwF82jOtFe931SMrRs.jpg",
+            "genre_ids": Array [
+              18,
+              27,
+              9648,
+              53,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 399057,
+            "original_language": "en",
+            "original_title": "The Killing of a Sacred Deer",
+            "overview": "A teenager's attempts to bring a brilliant surgeon into his dysfunctional family take an unexpected turn.",
+            "popularity": 128.142011,
+            "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+            "release_date": "2017-10-20",
+            "title": "The Killing of a Sacred Deer",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 63,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/854uDv6rzbwF82jOtFe931SMrRs.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              The Killing of a Sacred Deer
+            </h4>
+            <p
+              className="score"
+            >
+              6.0
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="13"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/lMDyuHzBhx3zNAv48vYzmgcJCCD.jpg",
+            "genre_ids": Array [
+              18,
+              35,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 419680,
+            "original_language": "en",
+            "original_title": "Daddy's Home 2",
+            "overview": "Brad and Dusty must deal with their intrusive fathers during the holidays.",
+            "popularity": 124.463046,
+            "poster_path": "/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg",
+            "release_date": "2017-11-09",
+            "title": "Daddy's Home 2",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 37,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/lMDyuHzBhx3zNAv48vYzmgcJCCD.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Daddy's Home 2
+            </h4>
+            <p
+              className="score"
+            >
+              5.5
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="14"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/sY2ttr9jdPFlTVm5gxFkRW2ELUi.jpg",
+            "genre_ids": Array [
+              53,
+              18,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 413362,
+            "original_language": "en",
+            "original_title": "Roman J. Israel, Esq.",
+            "overview": "Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.",
+            "popularity": 121.030415,
+            "poster_path": "/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg",
+            "release_date": "2017-11-10",
+            "title": "Roman J. Israel, Esq.",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 3,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/sY2ttr9jdPFlTVm5gxFkRW2ELUi.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Roman J. Israel, Esq.
+            </h4>
+            <p
+              className="score"
+            >
+              10.0
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="15"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg",
+            "genre_ids": Array [
+              18,
+              28,
+              80,
+              9648,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 395458,
+            "original_language": "en",
+            "original_title": "Suburbicon",
+            "overview": "A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.",
+            "popularity": 114.778176,
+            "poster_path": "/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg",
+            "release_date": "2017-10-27",
+            "title": "Suburbicon",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 37,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Suburbicon
+            </h4>
+            <p
+              className="score"
+            >
+              4.6
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="16"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/tvKcA4OFUiZkNeTJmmTkNqKHMMg.jpg",
+            "genre_ids": Array [
+              80,
+              18,
+              9648,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 392044,
+            "original_language": "en",
+            "original_title": "Murder on the Orient Express",
+            "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+            "popularity": 114.736713,
+            "poster_path": "/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg",
+            "release_date": "2017-11-03",
+            "title": "Murder on the Orient Express",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 136,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/tvKcA4OFUiZkNeTJmmTkNqKHMMg.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Murder on the Orient Express
+            </h4>
+            <p
+              className="score"
+            >
+              6.6
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="17"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
+            "genre_ids": Array [
+              35,
+              10751,
+              16,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 378236,
+            "original_language": "en",
+            "original_title": "The Emoji Movie",
+            "overview": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+            "popularity": 114.60013,
+            "poster_path": "/f5pF4OYzh4wb1dYL2ARQNdqUsEZ.jpg",
+            "release_date": "2017-07-28",
+            "title": "The Emoji Movie",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 483,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/kTrgxhRSj2sun89bDbnGCPBiey6.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              The Emoji Movie
+            </h4>
+            <p
+              className="score"
+            >
+              5.7
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="18"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg",
+            "genre_ids": Array [
+              18,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 395991,
+            "original_language": "en",
+            "original_title": "Only the Brave",
+            "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+            "popularity": 105.939271,
+            "poster_path": "/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg",
+            "release_date": "2017-10-19",
+            "title": "Only the Brave",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 47,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              Only the Brave
+            </h4>
+            <p
+              className="score"
+            >
+              5.8
+            </p>
+            <p
+              className="year"
+            >
+              (
+              2017
+              )
+            </p>
+          </div>
+        </div>
+      </SimilarMovie>
+      <SimilarMovie
+        conf={
+          Object {
+            "change_keys": Array [
+              "adult",
+              "air_date",
+              "also_known_as",
+              "alternative_titles",
+              "biography",
+              "birthday",
+              "budget",
+              "cast",
+              "certifications",
+              "character_names",
+              "created_by",
+              "crew",
+              "deathday",
+              "episode",
+              "episode_number",
+              "episode_run_time",
+              "freebase_id",
+              "freebase_mid",
+              "general",
+              "genres",
+              "guest_stars",
+              "homepage",
+              "images",
+              "imdb_id",
+              "languages",
+              "name",
+              "network",
+              "origin_country",
+              "original_name",
+              "original_title",
+              "overview",
+              "parts",
+              "place_of_birth",
+              "plot_keywords",
+              "production_code",
+              "production_companies",
+              "production_countries",
+              "releases",
+              "revenue",
+              "runtime",
+              "season",
+              "season_number",
+              "season_regular",
+              "spoken_languages",
+              "status",
+              "tagline",
+              "title",
+              "translations",
+              "tvdb_id",
+              "tvrage_id",
+              "type",
+              "video",
+              "videos",
+            ],
+            "images": Object {
+              "backdrop_sizes": Array [
+                "w300",
+                "w780",
+                "w1280",
+                "original",
+              ],
+              "base_url": "http://image.tmdb.org/t/p/",
+              "logo_sizes": Array [
+                "w45",
+                "w92",
+                "w154",
+                "w185",
+                "w300",
+                "w500",
+                "original",
+              ],
+              "poster_sizes": Array [
+                "w92",
+                "w154",
+                "w185",
+                "w342",
+                "w500",
+                "w780",
+                "original",
+              ],
+              "profile_sizes": Array [
+                "w45",
+                "w185",
+                "h632",
+                "original",
+              ],
+              "secure_base_url": "https://image.tmdb.org/t/p/",
+              "still_sizes": Array [
+                "w92",
+                "w185",
+                "w300",
+                "original",
+              ],
+            },
+          }
+        }
+        key="19"
+        movie={
+          Object {
+            "adult": false,
+            "backdrop_path": "/iJ5dkwIHQnq8dfmwSLh7dpETNhi.jpg",
+            "genre_ids": Array [
+              35,
+              16,
+              12,
+            ],
+            "genre_names": Array [
+              "Thriller",
+              "Horror",
+              "Drama",
+            ],
+            "id": 355547,
+            "original_language": "en",
+            "original_title": "The Star",
+            "overview": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.",
+            "popularity": 104.820669,
+            "poster_path": "/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+            "release_date": "2017-11-15",
+            "title": "The Star",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1,
+          }
+        }
+      >
+        <div
+          className="similar-movie"
+        >
+          <div
+            className="left-block"
+            style={
+              Object {
+                "backgroundImage": "url(http://image.tmdb.org/t/p/w780/iJ5dkwIHQnq8dfmwSLh7dpETNhi.jpg)",
+              }
+            }
+          />
+          <div
+            className="right-block"
+          >
+            <h4
+              className="similar-movie-title"
+            >
+              The Star
+            </h4>
+            <p
+              className="score"
+            >
+              10.0
             </p>
             <p
               className="year"

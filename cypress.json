@@ -1,0 +1,8 @@
+{
+    "env": {
+        "NODE_ENV": "test"
+    },
+    "videoRecording": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 720
+}
