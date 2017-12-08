@@ -8,7 +8,7 @@ A movie catalog where users can check the movies of the week, search for movies 
 
 ---
 
-The project is served at port 3000 from a **Node.js** server using **express.js** framework. The main page is written in **Pug** language. Build process is configured with **webpack** and a **Grunt** watcher is used for development. **React.js** (v16) and **SASS** are used as client frameworks for Javascript and CSS respectively. Tests are run from **Jest** library and the project uses **ESLint** for linting the react javascript files.
+The project is served at port 3000 from a **Node.js** server using **express.js** framework. The main page is written in **Pug** language. Build process is configured with **webpack** and a **Grunt** watcher is used for development. **React.js** (v16) and **SASS** are used as client frameworks for Javascript and CSS respectively. Tests are run from **Jest** and **Cypress** libraries and the project uses **ESLint** for linting the react javascript files.
 
 > You must register to [The Movie DB](https://developers.themoviedb.org/3/getting-started) to get an *API key* and export it as an environment variable called **MOVIE_DB_KEY**, in order to have access to the data.
 
@@ -54,16 +54,20 @@ Open [http://localhost:3000](http://localhost:3000) on a modern browser
 
 ### Testing
 
+- **With Jest**
 ```
 npm test
 ```
-
 Also available:
-
 ```
 npm run test:watch
 npm run test:update
 npm run test:coverage
+```
+
+- **With Cypress**
+```
+npm run test-cy
 ```
 
 ### Visual analyze production bundle

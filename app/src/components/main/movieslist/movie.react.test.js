@@ -47,7 +47,7 @@ describe('Movie component', () => {
         expect(wrapper.instance().getMovieIndex()).toEqual(0);
 
         expect(wrapper.instance().createBackdropImageUrl())
-            .toEqual('http://image.tmdb.org/t/p/w780/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg');
+            .toEqual('http://image.tmdb.org/t/p/w780/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg');
 
         expect(wrapper).toMatchSnapshot();
 

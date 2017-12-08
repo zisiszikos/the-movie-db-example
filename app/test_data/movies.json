@@ -1,24 +1,24 @@
-[
-    {
-        "vote_count": 2793,
-        "id": 346364,
+[{
+        "vote_count": 1617,
+        "id": 284053,
         "video": false,
-        "vote_average": 7.4,
-        "title": "It",
-        "popularity": 741.821925,
-        "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+        "vote_average": 7.6,
+        "title": "Thor: Ragnarok",
+        "popularity": 793.613813,
+        "poster_path": "/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg",
         "original_language": "en",
-        "original_title": "It",
+        "original_title": "Thor: Ragnarok",
         "genre_ids": [
+            28,
             12,
-            18,
-            27,
-            885555
+            35,
+            14,
+            878
         ],
-        "backdrop_path": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
+        "backdrop_path": "/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg",
         "adult": false,
-        "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
-        "release_date": "2017-09-05",
+        "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+        "release_date": "2017-10-25",
         "genre_names": [
             "Thriller",
             "Horror",
@@ -26,17 +26,242 @@
         ]
     },
     {
-        "vote_count": 1320,
+        "vote_count": 246,
+        "id": 298250,
+        "video": false,
+        "vote_average": 6,
+        "title": "Jigsaw",
+        "popularity": 380.247825,
+        "poster_path": "/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg",
+        "original_language": "en",
+        "original_title": "Jigsaw",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "backdrop_path": "/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg",
+        "adult": false,
+        "overview": "Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.",
+        "release_date": "2017-10-20",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 293,
+        "id": 141052,
+        "video": false,
+        "vote_average": 7.1,
+        "title": "Justice League",
+        "popularity": 341.509307,
+        "poster_path": "/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg",
+        "original_language": "en",
+        "original_title": "Justice League",
+        "genre_ids": [
+            28,
+            12,
+            14,
+            878
+        ],
+        "backdrop_path": "/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg",
+        "adult": false,
+        "overview": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+        "release_date": "2017-11-15",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 382,
+        "id": 440021,
+        "video": false,
+        "vote_average": 6.5,
+        "title": "Happy Death Day",
+        "popularity": 326.009459,
+        "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+        "original_language": "en",
+        "original_title": "Happy Death Day",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "backdrop_path": "/eGx5OfOdvM0gkHdmkLe3hcJuEIT.jpg",
+        "adult": false,
+        "overview": "A college student relives the day of her murder over and over again as she tries to discover her killer's identity.",
+        "release_date": "2017-10-12",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 275,
+        "id": 274855,
+        "video": false,
+        "vote_average": 5.9,
+        "title": "Geostorm",
+        "popularity": 301.79268,
+        "poster_path": "/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",
+        "original_language": "en",
+        "original_title": "Geostorm",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ],
+        "backdrop_path": "/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg",
+        "adult": false,
+        "overview": "Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.",
+        "release_date": "2017-10-13",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 187,
+        "id": 372343,
+        "video": false,
+        "vote_average": 5.1,
+        "title": "The Snowman",
+        "popularity": 301.583929,
+        "poster_path": "/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg",
+        "original_language": "en",
+        "original_title": "The Snowman",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            9648,
+            53
+        ],
+        "backdrop_path": "/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg",
+        "adult": false,
+        "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+        "release_date": "2017-10-12",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 1079,
+        "id": 341013,
+        "video": false,
+        "vote_average": 6.2,
+        "title": "Atomic Blonde",
+        "popularity": 281.512167,
+        "poster_path": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+        "original_language": "en",
+        "original_title": "Atomic Blonde",
+        "genre_ids": [
+            53,
+            9648,
+            28
+        ],
+        "backdrop_path": "/lj3wkYkJGkfmDfXkKrVarSJpFD4.jpg",
+        "adult": false,
+        "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+        "release_date": "2017-07-26",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 124,
+        "id": 390062,
+        "video": false,
+        "vote_average": 5.2,
+        "title": "Jungle",
+        "popularity": 275.559692,
+        "poster_path": "/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
+        "original_language": "en",
+        "original_title": "Jungle",
+        "genre_ids": [
+            12,
+            18,
+            53
+        ],
+        "backdrop_path": "/go1a6YwrVTMrNNIfaRpBRp5pIzV.jpg",
+        "adult": false,
+        "overview": "A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.",
+        "release_date": "2017-10-20",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 139,
+        "id": 459202,
+        "video": false,
+        "vote_average": 5.5,
+        "title": "Boo 2! A Madea Halloween",
+        "popularity": 216.224617,
+        "poster_path": "/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg",
+        "original_language": "en",
+        "original_title": "Boo 2! A Madea Halloween",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "backdrop_path": "/78kN1a1AHxAPEh7hQhNjDQhLZ9W.jpg",
+        "adult": false,
+        "overview": "Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.",
+        "release_date": "2017-10-20",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 2287,
+        "id": 281338,
+        "video": false,
+        "vote_average": 6.8,
+        "title": "War for the Planet of the Apes",
+        "popularity": 211.798067,
+        "poster_path": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+        "original_language": "en",
+        "original_title": "War for the Planet of the Apes",
+        "genre_ids": [
+            18,
+            878,
+            10752
+        ],
+        "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+        "adult": false,
+        "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+        "release_date": "2017-07-11",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 1718,
         "id": 335984,
         "video": false,
-        "vote_average": 7.6,
+        "vote_average": 7.4,
         "title": "Blade Runner 2049",
-        "popularity": 521.697454,
+        "popularity": 185.63854,
         "poster_path": "/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
         "original_language": "en",
         "original_title": "Blade Runner 2049",
         "genre_ids": [
-            28,
             9648,
             878,
             53
@@ -46,10 +271,231 @@
         "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
         "release_date": "2017-10-04",
         "genre_names": [
-            "Action",
-            "Mystery",
-            "Science Fiction",
-            "Thriller"
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 1357,
+        "id": 396422,
+        "video": false,
+        "vote_average": 6.4,
+        "title": "Annabelle: Creation",
+        "popularity": 128.48143,
+        "poster_path": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+        "original_language": "en",
+        "original_title": "Annabelle: Creation",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "backdrop_path": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+        "adult": false,
+        "overview": "Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker's possessed creation, Annabelle.",
+        "release_date": "2017-08-03",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 63,
+        "id": 399057,
+        "video": false,
+        "vote_average": 6,
+        "title": "The Killing of a Sacred Deer",
+        "popularity": 128.142011,
+        "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+        "original_language": "en",
+        "original_title": "The Killing of a Sacred Deer",
+        "genre_ids": [
+            18,
+            27,
+            9648,
+            53
+        ],
+        "backdrop_path": "/854uDv6rzbwF82jOtFe931SMrRs.jpg",
+        "adult": false,
+        "overview": "A teenager's attempts to bring a brilliant surgeon into his dysfunctional family take an unexpected turn.",
+        "release_date": "2017-10-20",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 37,
+        "id": 419680,
+        "video": false,
+        "vote_average": 5.5,
+        "title": "Daddy's Home 2",
+        "popularity": 124.463046,
+        "poster_path": "/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg",
+        "original_language": "en",
+        "original_title": "Daddy's Home 2",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "backdrop_path": "/lMDyuHzBhx3zNAv48vYzmgcJCCD.jpg",
+        "adult": false,
+        "overview": "Brad and Dusty must deal with their intrusive fathers during the holidays.",
+        "release_date": "2017-11-09",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 3,
+        "id": 413362,
+        "video": false,
+        "vote_average": 10,
+        "title": "Roman J. Israel, Esq.",
+        "popularity": 121.030415,
+        "poster_path": "/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg",
+        "original_language": "en",
+        "original_title": "Roman J. Israel, Esq.",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "backdrop_path": "/sY2ttr9jdPFlTVm5gxFkRW2ELUi.jpg",
+        "adult": false,
+        "overview": "Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.",
+        "release_date": "2017-11-10",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 37,
+        "id": 395458,
+        "video": false,
+        "vote_average": 4.6,
+        "title": "Suburbicon",
+        "popularity": 114.778176,
+        "poster_path": "/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg",
+        "original_language": "en",
+        "original_title": "Suburbicon",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            9648
+        ],
+        "backdrop_path": "/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg",
+        "adult": false,
+        "overview": "A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.",
+        "release_date": "2017-10-27",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 136,
+        "id": 392044,
+        "video": false,
+        "vote_average": 6.6,
+        "title": "Murder on the Orient Express",
+        "popularity": 114.736713,
+        "poster_path": "/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg",
+        "original_language": "en",
+        "original_title": "Murder on the Orient Express",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "backdrop_path": "/tvKcA4OFUiZkNeTJmmTkNqKHMMg.jpg",
+        "adult": false,
+        "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+        "release_date": "2017-11-03",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 483,
+        "id": 378236,
+        "video": false,
+        "vote_average": 5.7,
+        "title": "The Emoji Movie",
+        "popularity": 114.60013,
+        "poster_path": "/f5pF4OYzh4wb1dYL2ARQNdqUsEZ.jpg",
+        "original_language": "en",
+        "original_title": "The Emoji Movie",
+        "genre_ids": [
+            35,
+            10751,
+            16
+        ],
+        "backdrop_path": "/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
+        "adult": false,
+        "overview": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+        "release_date": "2017-07-28",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 47,
+        "id": 395991,
+        "video": false,
+        "vote_average": 5.8,
+        "title": "Only the Brave",
+        "popularity": 105.939271,
+        "poster_path": "/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg",
+        "original_language": "en",
+        "original_title": "Only the Brave",
+        "genre_ids": [
+            18
+        ],
+        "backdrop_path": "/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg",
+        "adult": false,
+        "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+        "release_date": "2017-10-19",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ]
+    },
+    {
+        "vote_count": 1,
+        "id": 355547,
+        "video": false,
+        "vote_average": 10,
+        "title": "The Star",
+        "popularity": 104.820669,
+        "poster_path": "/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+        "original_language": "en",
+        "original_title": "The Star",
+        "genre_ids": [
+            35,
+            16,
+            12
+        ],
+        "backdrop_path": "/iJ5dkwIHQnq8dfmwSLh7dpETNhi.jpg",
+        "adult": false,
+        "overview": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.",
+        "release_date": "2017-11-15",
+        "genre_names": [
+            "Thriller",
+            "Horror",
+            "Drama"
         ]
     }
 ]
