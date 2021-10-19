@@ -102,6 +102,6 @@
     "webpack-bundle-analyzer": "2.9.0"
   },
   "engines": {
-    "node": "8.9.x"
+    "node": "12"
   }
 }
